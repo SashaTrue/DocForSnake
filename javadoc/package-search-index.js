@@ -1,0 +1,1 @@
+var packageSearchIndex = [{"l":"com.example.snakegame","url":"com/example/snakegame/package-summary.html"}, {"l":"com.example.snakegame.ui.theme","url":"com/example/snakegame/ui/theme/package-summary.html"}, {"l":"All packages","url":"index.html"}]
